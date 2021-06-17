@@ -1,0 +1,14 @@
+Hi Sandeep,
+
+Before moving forward with your workshop, there a few formatting errors that need to be changed. 
+•	Section Titles: Please refrain from renaming the sections within the lab. Every lab should have an “Introduction” section, an “Objectives” section, and so forth. For example, in Lab 1, the “What do you need?” section should be titled “Prerequisites".
+
+
+•	Objectives & Prerequisites: Please ensure the headers for these sections have three hashtags before them and are present in each lab. For example, ### Objectives. The Objectives section should follow the format of the attachment.
+
+
+•	Indentation: Within each step, there are numerical lists. The numbers should be on their own indentation level. Please indent any other content to make that happen.
+
+
+•	Numbering: Please ensure that the numbering is in the proper order. Within your steps there are various instances of inconsistent numbering. For example, in Lab 3 (Step 1, part 9). After part 9, it goes to number 13. 
+We are still reviewing your workshop. If any other suggestions arise, I will let you know. 
